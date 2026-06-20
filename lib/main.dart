@@ -15,7 +15,7 @@ class ChatApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ChatApp1',
+      title: 'ChatApp2',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
